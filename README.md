@@ -130,7 +130,7 @@ for col in cat_columns:
 # Feacture Engineering
 student_df['Full_name'] = student_df['First_Name'] + student_df['Last_Name']
 ```
-
+## ML Model basics
 ### Adding missing values
 ```jupyter
 features = ['Midterm_Score', 'Final_Score', 'Assignments_Avg',
