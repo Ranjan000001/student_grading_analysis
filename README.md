@@ -247,5 +247,5 @@ print("Lasso R²:", lasso.score(X_imputed, y))
 - Subject score correlations.
 
 ## Power BI Dashboad
-<img src="student.png" alt="Click to visit Example.com">
+<img src="student .png" alt="Click to visit Example.com">
 
